@@ -1,0 +1,6 @@
+server:
+  port: 8000
+  address: 10.0.0.196
+registry:
+  servers: 10.0.0.242:2181,10.0.0.242:2182,10.0.0.242:2183
+  service: HelloService
